@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(168, 97, 235);
+    color:black;
+    font-family: sans-serif;
+    margin: 0px;
+}
+header {border-bottom: solid 4px red;
+padding: 10px;
+font-size: 32px;
+color: azure;
+}
